@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://moviemojo:moviemojo@moviemojo.khypq.mongodb.net/moviemojo?retryWrites=true&w=majority"
+}
